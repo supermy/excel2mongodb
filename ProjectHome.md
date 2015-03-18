@@ -1,0 +1,2 @@
+mdb数据库手动转换到excel
+jxl读取excel,存入到mongodb,或者转换为json格式
